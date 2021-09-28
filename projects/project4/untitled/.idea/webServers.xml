@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d851f35e-4dc6-4ab3-a9a3-6283cd46695c" name="IOV" url="http://202.120.38.38">
+        <fileTransfer rootFolder="/home/zhaohanyun" accessType="SFTP" host="202.120.38.38" port="50022" sshConfigId="be075cb7-546f-4d03-ae6e-664fbc72b538" sshConfig="zhaohanyun@202.120.38.38:50022 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
